@@ -6,7 +6,8 @@ A private repository for a class assignment.
 >
 > > He had such a knowledge of the dark side that he could even keep the ones he cared about from dying.
 
-The **dark side of the Force** is a pathway to many abilities some consider to be unnatural. He became so powerful… the only thing he was afraid of was losing his power, which eventually, of course, he did.
+The **dark side of the Force** is a pathway to many abilities some consider to be unnatural. He became so powerful… the only thing he was afraid of was losing his power,\
+which eventually, of course, he did.
 __Unfortunately__, he taught his apprentice everything he knew, then his apprentice killed him in his sleep.
 _Ironic._
 He could save others from death, but ~not~ himself." - _Darth Sidious_.
