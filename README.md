@@ -10,6 +10,9 @@ The **dark side of the Force** is a pathway to many abilities some consider to b
 which eventually, of course, he did.
 __Unfortunately__, he taught his apprentice everything he knew, then his apprentice killed him in his sleep.
 _Ironic._
-He could save others from death, but ~not~ himself." - _Darth Sidious_. [^1]
+He could save others from death, but ~not~ himself." - _Darth Sidious_. 
 
-[^1] : There was a crooked man, and he walked a crooked mile, he found a crooked sixpence against a crooked stile; He bought a crooked cat, which caught a crooked mouse, and they all lived together in a little crooked house.
+- There was a crooked man, and he walked a crooked mile,
+- he found a crooked sixpence against a crooked stile;
+- He bought a crooked cat, which caught a crooked mouse,
+- and they all lived together in a little crooked house.
